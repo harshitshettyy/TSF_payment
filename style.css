@@ -228,7 +228,7 @@ section .title::after {
 
 .home {
   display: flex;
-  background: url("https://source.unsplash.com/720x600/?dark,laptop") no-repeat
+  background: url("https://i0.wp.com/academiamag.com/wp-content/uploads/2018/10/joined_hands.jpg?fit=1255%2C836&ssl=1") no-repeat
     center;
   height: 100vh;
   color: #fff;
@@ -255,11 +255,13 @@ section .title::after {
   font-size: 75px;
   font-weight: 600;
   margin-left: -3px;
+
 }
 
 .home .home-content .text-3 {
   font-size: 40px;
   margin: 5px 0;
+
 }
 
 /* Linear Gradient */
@@ -298,7 +300,7 @@ section .title::after {
   background: radial-gradient(#e1efff, white);
 }
 .about .title::after {
-  content: "—Who I Am ?—";
+  content: "—Who are we ?—";
   text-overflow: ellipsis;
   display: -webkit-inline-box;
   -webkit-line-clamp: 3;
@@ -375,7 +377,7 @@ section .title::after {
 .services .title::after,
 .projects .title::after {
   background: #111;
-  content: "What I Provide ?";
+  content: "What we believe ?";
 }
 
 .services .serv-content .card {
